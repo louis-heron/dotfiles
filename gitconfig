@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = louisheron@gmail.com
+	name = Louis Heron
